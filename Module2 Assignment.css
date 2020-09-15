@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: rgb(27, 11, 11);
+    background-color:#ffffff;
+}
+
+.box1{
+    border: 5px solid#000000;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    background-color: darkgray;
+}
+.A{
+    border: 2px solid black;
+     text-align: right;
+    padding: 2px 2px 2px 2px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left:  368px;
+    padding-bottom: 2px;
+}
+.p1{
+    padding-top: 40px;
+}
+    
+.box2{
+    border: 5px solid#000000;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    background-color: darkgray;
+}
+
+.B {
+    border: 2px solid black;
+    text-align: center;
+    padding: 2px 2px 2px 2px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left:  354px;
+    padding-bottom: 2px;
+}
+.p2{
+    padding-top: 40px;
+}
+   
+.box3{
+    border: 5px solid#000000;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    background-color: darkgray;
+}
+.C {
+    border: 2px solid black;
+    text-align: center;
+    padding: 2px 2px 2px 2px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left: 374px;
+    padding-bottom: 2px;
+}
+.p3{
+    padding-top: 40px;
+}
+   
+.main{
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+
+@media (min-width: 767px){
+    
+}
